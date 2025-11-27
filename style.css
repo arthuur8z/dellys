@@ -1,0 +1,44 @@
+.banner1 {
+background-color: black;
+position: absolute;
+top: 0;
+left: 0;
+height: 45px;
+width: 1538px;
+}
+
+.banner2 {
+background-color: rgb(255, 213, 0);
+position: absolute;
+top: 45px;
+left: 0;
+height: 100px;
+width: 1538px;
+}
+
+#logo {
+position: absolute;
+top: 40px;
+left: 90px;
+width: 110px;
+}
+
+.inicio {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(255, 255, 255);
+position: absolute;
+top: 11px;
+left: 90px;
+font-size: 17px;
+z-index: 1;
+}
+
+.autorizadas {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(255, 255, 255);
+position: absolute;
+top: 11px;
+left: 160px;
+font-size: 17px;
+z-index: 1;
+}
