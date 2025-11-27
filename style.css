@@ -23,7 +23,7 @@ left: 90px;
 width: 110px;
 }
 
-.inicio {
+.text1 {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 color: rgb(255, 255, 255);
 position: absolute;
@@ -33,12 +33,12 @@ font-size: 17px;
 z-index: 1;
 }
 
-.autorizadas {
+.text2 {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 color: rgb(255, 255, 255);
 position: absolute;
 top: 11px;
-left: 160px;
+left: 700px;
 font-size: 17px;
 z-index: 1;
 }
